@@ -4,6 +4,8 @@ In this project, I will analyze data from the NIH Chest X-ray Dataset and train 
 
 The project uses a dataset of 112,000 chest x-rays with disease labels acquired from 30,000 patients.
 
+![pneumonia examples](img/pneumonia_xrays.png)
+
 ## Key files
 
 - [Jupyter notebook of analysis and ML model development](https://github.com/pranath/breast_cancer_prediction/blob/master/breast_cancer_prediction.ipynb)
