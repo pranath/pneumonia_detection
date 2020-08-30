@@ -7,6 +7,16 @@ The project uses a dataset of 112,000 chest x-rays with disease labels acquired 
 #### Example Chest X-Rays of patients with and without Pneumonia
 ![pneumonia examples](img/pneumonia_xrays.png)
 
+## Project highlights
+
+- Use imaging modalities for common clinical applications of 2D medical imaging 
+- Perform exploratory data analysis (EDA) on medical imaging data to inform model training and explain model performance
+- Establish the appropriate ‘ground truth’ methodologies for training algorithms to label medical images
+- Extract images from a DICOM medical format dataset
+- Train common CNN deep learning architectures to classify 2D medical images
+- Translate outputs of medical imaging models for use by a clinician
+- Plan necessary validations to prepare a medical imaging model for regulatory approval
+
 ## Key files
 
 ### June 2020
