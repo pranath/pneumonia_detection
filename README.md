@@ -4,7 +4,7 @@ In this project, I will analyze data from the NIH Chest X-ray Dataset and train 
 
 The project uses a dataset of 112,000 chest x-rays with disease labels acquired from 30,000 patients.
 
-** Example Chest X-Rays of patients with and without Pneumonia **
+#### Example Chest X-Rays of patients with and without Pneumonia
 ![pneumonia examples](img/pneumonia_xrays.png)
 
 ## Key files
