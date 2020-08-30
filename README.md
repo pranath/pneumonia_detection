@@ -4,14 +4,18 @@ In this project, I will analyze data from the NIH Chest X-ray Dataset and train 
 
 The project uses a dataset of 112,000 chest x-rays with disease labels acquired from 30,000 patients.
 
+** Example Chest X-Rays of patients with and without Pneumonia **
 ![pneumonia examples](img/pneumonia_xrays.png)
 
 ## Key files
 
-- [Jupyter notebook of analysis and ML model development](https://github.com/pranath/breast_cancer_prediction/blob/master/breast_cancer_prediction.ipynb)
-- [Interactive topological network of breast cancer dataset](https://pranath.github.io/breast_cancer_prediction/tda_breast_cancer.html)
+### June 2020
+
+- [Exploratory Data Analysis of Chest X-ray dataset](https://github.com/pranath/pneumonia_detection/blob/master/EDA.ipynb)
+- [Building & Training Model for Pneumonia Detection From Chest X-Rays](https://github.com/pranath/pneumonia_detection/blob/master/Build%20and%20train%20model.ipynb)
+- [Pneumonia Detection Model - Clinical workflow integration test](https://github.com/pranath/pneumonia_detection/blob/master/Inference.ipynb)
+- [FDA for 510(k) clearance report for Pneumonia Detection Model](https://github.com/pranath/pneumonia_detection/blob/master/FDA_Submission.pdf)
 
 ## Results
 
-1. In the __[first project](https://github.com/pranath/disaster_response/blob/master/notebooks/MLPipelinePreparation.ipynb)__ finished in June 2020, the best result was an overall F1 score on all categories of 0.41
-2. In the __[latest project](https://github.com/pranath/disaster_response/blob/master/notebooks/MLPipelinePreparation2.ipynb)__ finished in September 2020, the best result was an overall F1 score on all categories of 0.75
+1. In the __[first project](https://github.com/pranath/pneumonia_detection/blob/master/Build%20and%20train%20model.ipynb)__ finished in June 2020, the best result was an overall F1 score for predicting Pneumonia of 0.03
