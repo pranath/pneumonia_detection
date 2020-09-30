@@ -30,4 +30,4 @@ The project uses a dataset of 112,000 chest x-rays with disease labels acquired 
 
 ## Results
 
-1. In the __[first project](https://github.com/pranath/pneumonia_detection/blob/master/Build%20and%20train%20model.ipynb)__ finished in June 2020, the best result was an overall F1 score for predicting Pneumonia of 0.03
+1. In the __[first project](https://github.com/pranath/pneumonia_detection/blob/master/Build%20and%20train%20model.ipynb)__ finished in June 2020, the best result was an accuracy for predicting Pneumonia of 0.83
